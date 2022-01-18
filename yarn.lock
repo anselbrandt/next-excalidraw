@@ -62,6 +62,11 @@
   resolved "https://registry.yarnpkg.com/@excalidraw/excalidraw/-/excalidraw-0.10.0.tgz#5329d6fb1b0cca068e2cd34da6d648dd6d0d3fec"
   integrity sha512-0fHc/oX394dHAT7LEacwZ0vh8aeI179plYnfaeLeRHBtHARgmtlmvxcnxd2pxJ0Z1Uj/Cy76oK9MVw/y8P1HhQ==
 
+"@excalidraw/utils@^0.1.0-temp":
+  version "0.1.0-temp"
+  resolved "https://registry.yarnpkg.com/@excalidraw/utils/-/utils-0.1.0-temp.tgz#66b6b414e040dc50d43f215890d021e6496d7e93"
+  integrity sha512-8rWzVNMGws3Od9AL0QzZibBIz+sfFvf6+wJZ51ndUYJl85Iav+GKsKvNgur3VZCsZW+YTihWPicMtf9E8RN4wA==
+
 "@humanwhocodes/config-array@^0.9.2":
   version "0.9.2"
   resolved "https://registry.yarnpkg.com/@humanwhocodes/config-array/-/config-array-0.9.2.tgz#68be55c737023009dfc5fe245d51181bb6476914"
